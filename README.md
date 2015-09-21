@@ -30,4 +30,4 @@ $ npm start
 ```
 
 ## Live demo
-<https://simplechatdemo.herokuapp.com/> (down)
+<https://simplechatdemo.herokuapp.com/>
